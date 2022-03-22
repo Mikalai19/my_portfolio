@@ -55,7 +55,7 @@ class Portfolio extends Component {
                         <br />
                         <div class="foot">
                             <a href="https://github.com/Mikalai19/barley-brick-game" class="button is-primary">View code</a>
-                            <a href="https://github.com/Mikalai19/barley-brick-game" class="button is-primary">Visit site</a>
+                            <a href="https://mikalai19.github.io/barley-brick-game/" class="button is-primary">View game</a>
                         </div>
                     </div>
                 </article>
@@ -72,7 +72,7 @@ class Portfolio extends Component {
                         <br />
                         <div class="foot">
                             <a href="https://github.com/Mikalai19/national-parks" class="button is-primary">View code</a>
-                            <a href="https://github.com/Mikalai19/barley-brick-game" class="button is-primary">Visit site</a>
+                            <a href="https://national-parks-dev.herokuapp.com/" class="button is-primary">Visit site</a>
                         </div>
                     </div>
                 </article>
