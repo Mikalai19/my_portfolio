@@ -55,7 +55,7 @@ class Portfolio extends Component {
                         <br />
                         <div class="foot">
                             <a href="https://github.com/Mikalai19/barley-brick-game" class="button is-primary">View code</a>
-                            <a href="https://mikalai19.github.io/barley-brick-game/" class="button is-primary">View game</a>
+                            <a href="https://mikalai19.github.io/barley-brick-game/" target="_blank" class="button is-primary">View game</a>
                         </div>
                     </div>
                 </article>
@@ -72,7 +72,7 @@ class Portfolio extends Component {
                         <br />
                         <div class="foot">
                             <a href="https://github.com/Mikalai19/national-parks" class="button is-primary">View code</a>
-                            <a href="https://national-parks-dev.herokuapp.com/" class="button is-primary">Visit site</a>
+                            <a href="https://national-parks-dev.herokuapp.com/" target="_blank" class="button is-primary">Visit site</a>
                         </div>
                     </div>
                 </article>
@@ -90,7 +90,7 @@ class Portfolio extends Component {
                         <div class="foot">
                             <a href="https://github.com/Mikalai19/ga-list" class="button is-primary">View Frontend code</a>
                             <a href="https://github.com/Mikalai19/ga-list-api" class="button is-primary">View Backend code</a>
-                            <a href="https://github.com/Mikalai19/barley-brick-game" class="button is-primary">Visit site</a>
+                            <a href="https://ga-list.herokuapp.com/" target="_blank" class="button is-primary">Visit site</a>
                         </div>
                     </div>
                 </article>
@@ -106,7 +106,7 @@ class Portfolio extends Component {
                         <br />
                         <div class="foot">
                             <a href="https://github.com/Mikalai19/weather-app" class="button is-primary">View code</a>
-                            <a href="https://github.com/Mikalai19/barley-brick-game" class="button is-primary">Visit site</a>
+                            <a href="https://weather-app-mi.herokuapp.com/" target="_blank" class="button is-primary">Visit site</a>
                         </div>
                     </div>
                 </article>
